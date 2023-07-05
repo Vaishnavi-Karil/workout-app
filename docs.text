@@ -1,0 +1,19 @@
+GET         /workout       --> Get all the workout documents
+
+POST        /workout       --> Create a new workout documents44
+
+GET         /workout:id      --> Gets a single workout documents
+
+DELETE      /workout/:id   --> Gets a single workout document
+
+PATCH       /workout/:id   --> Updates a single workout
+
+
+psw= GQ4P8yH64QLcyfqq
+username =  vaishnavikaril
+
+
+
+Video  : 6 controller 
+
+need to start work on controller from video 6
